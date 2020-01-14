@@ -1,7 +1,7 @@
 'use strict';
 
 var Drone = require('rolling-spider');
-var noble = require('@icanos/noble');
+var noble = require('noble');
 var knownDevices = [];
 
 if (noble.state === 'poweredOn') {

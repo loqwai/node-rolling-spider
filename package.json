@@ -52,7 +52,7 @@
     "debug": "^2.1.1",
     "keypress": "^0.2.1",
     "lodash": "3.9.3",
-    "@icanos/noble": "^1.9.2-8"      
+    "noble": "^1.9.2-8"      
   },
   "devDependencies": {
     "mocha": "2.2.5",
