@@ -1,6 +1,6 @@
 'use strict';
 
-var noble = require('noble');
+var noble = require('@icanos/noble');
 var util = require('util');
 
 var connectedDrone;

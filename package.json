@@ -35,6 +35,10 @@
     {
       "name": "Linda Nichols",
       "email": "lynnaloo@gmail.com"
+    },
+    {
+      "name": "redaphid",
+      "email": "iam@aaronherres.com"
     }
   ],
   "bugs": {
@@ -48,7 +52,7 @@
     "debug": "^2.1.1",
     "keypress": "^0.2.1",
     "lodash": "3.9.3",
-    "noble": "voodootikigod/noble"
+    "@icanos/noble": "^1.9.2-8"      
   },
   "devDependencies": {
     "mocha": "2.2.5",
